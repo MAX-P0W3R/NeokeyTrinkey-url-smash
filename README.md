@@ -61,7 +61,7 @@ This project turns your NeoKey Trinkey into a quick-launch button for your GitHu
 
 ### 4. Customize the URL (Optional)
 
-Edit `code.py` and change line 80 to your desired GitHub URL:
+Edit `code.py` and change line 78 to your desired GitHub URL:
 
 ```python
 layout.write("https://github.com/MAX-P0W3R")  # Change this to your GitHub username
