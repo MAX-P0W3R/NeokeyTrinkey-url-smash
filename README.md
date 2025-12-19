@@ -1,6 +1,8 @@
 # NeoKey Trinkey GitHub Launcher
 
-A simple CircuitPython project for the Adafruit NeoKey Trinkey M0 that launches your GitHub profile page with a single button press.
+![Alt text](images/adafruit_products_NeoKey_Trinkey_Friend.jpg)
+
+### A simple CircuitPython project for the Adafruit NeoKey Trinkey M0 that launches your GitHub profile page with a single button press.
 
 ## Overview
 
@@ -127,6 +129,11 @@ Connect via serial console (115200 baud) to see debug messages:
 - "*** Command sent! ***" - Keyboard commands sent
 
 ## Resources & Documentation
+
+### Images
+![Alt text](images/adafruit_products_NeoKey_top_angle_key.jpg)
+![Alt text](images/adafruit_Neokey_Trinkey_Engaged.jpg)
+![Alt text](images/adafruit_NeoKey_Trinkey.jpg)
 
 ### Adafruit NeoKey Trinkey
 
