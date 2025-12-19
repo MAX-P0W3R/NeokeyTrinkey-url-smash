@@ -131,9 +131,9 @@ Connect via serial console (115200 baud) to see debug messages:
 ## Resources & Documentation
 
 ### Images
+![Alt text](images/adafruit_Neokey_Trinkey.jpg)
 ![Alt text](images/adafruit_products_NeoKey_top_angle_key.jpg)
 ![Alt text](images/adafruit_Neokey_Trinkey_Engaged.jpg)
-![Alt text](images/adafruit_NeoKey_Trinkey.jpg)
 
 ### Adafruit NeoKey Trinkey
 
